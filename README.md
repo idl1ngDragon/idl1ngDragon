@@ -1,4 +1,10 @@
-### Hi there 👋
+### Welcome to my Github. 👋
+
+-  boy
+-  创新创业比赛
+-  旅游领队
+-  专业不会打码
+-  口嗨king
 
 <!--
 **idl1ngDragon/idl1ngDragon** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
